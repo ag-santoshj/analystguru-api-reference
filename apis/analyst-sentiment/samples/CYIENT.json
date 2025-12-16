@@ -1,0 +1,298 @@
+{
+    "stock": {
+      "isin": "INE136B01020",
+      "symbol": "CYIENT",
+      "name": "Cyient Limited",
+      "exchange": "NSE"
+    },
+    "coverage_summary": {
+      "period": {
+        "from": "2025-01-21",
+        "to": "2025-10-17"
+      },
+      "total_calls": 19,
+      "analyst_count": 7,
+      "action_distribution": {
+        "BUY": 11,
+        "HOLD": 2,
+        "SELL": 6
+      }
+    },
+    "sentiment_timeline": [
+      {
+        "date": "2025-01-21",
+        "state": {
+          "buy": 1,
+          "hold": 0,
+          "sell": 0,
+          "unweighted_score": 1.0,
+          "weighted_score": 1.0
+        }
+      },
+      {
+        "date": "2025-01-22",
+        "state": {
+          "buy": 3,
+          "hold": 0,
+          "sell": 0,
+          "unweighted_score": 1.0,
+          "weighted_score": 1.0
+        }
+      },
+      {
+        "date": "2025-01-23",
+        "state": {
+          "buy": 2,
+          "hold": 0,
+          "sell": 1,
+          "unweighted_score": 0.333,
+          "weighted_score": 0.331
+        }
+      },
+      {
+        "date": "2025-01-24",
+        "state": {
+          "buy": 2,
+          "hold": 0,
+          "sell": 2,
+          "unweighted_score": 0.0,
+          "weighted_score": -0.003
+        }
+      },
+      {
+        "date": "2025-04-22",
+        "state": {
+          "buy": 3,
+          "hold": 0,
+          "sell": 1,
+          "unweighted_score": 0.5,
+          "weighted_score": 0.499
+        }
+      },
+      {
+        "date": "2025-04-24",
+        "state": {
+          "buy": 4,
+          "hold": 0,
+          "sell": 1,
+          "unweighted_score": 0.6,
+          "weighted_score": 0.603
+        }
+      },
+      {
+        "date": "2025-04-25",
+        "state": {
+          "buy": 3,
+          "hold": 2,
+          "sell": 1,
+          "unweighted_score": 0.333,
+          "weighted_score": 0.331
+        }
+      },
+      {
+        "date": "2025-08-06",
+        "state": {
+          "buy": 4,
+          "hold": 2,
+          "sell": 1,
+          "unweighted_score": 0.429,
+          "weighted_score": 0.432
+        }
+      },
+      {
+        "date": "2025-10-14",
+        "state": {
+          "buy": 4,
+          "hold": 2,
+          "sell": 1,
+          "unweighted_score": 0.429,
+          "weighted_score": 0.432
+        }
+      },
+      {
+        "date": "2025-10-15",
+        "state": {
+          "buy": 5,
+          "hold": 1,
+          "sell": 1,
+          "unweighted_score": 0.571,
+          "weighted_score": 0.579
+        }
+      },
+      {
+        "date": "2025-10-17",
+        "state": {
+          "buy": 3,
+          "hold": 1,
+          "sell": 3,
+          "unweighted_score": 0.0,
+          "weighted_score": 0.002
+        }
+      }
+    ],
+    "analyst_journeys": [
+      {
+        "analyst_id": 38,
+        "analyst_name": "Motilal Oswal Financial Services Limited",
+        "analyst_aei_score": 0.93,
+        "journey": [
+          {
+            "date": "2025-01-21",
+            "action": "BUY",
+            "target_price": 700.0,
+            "previous_call_id": 38032.0
+          },
+          {
+            "date": "2025-01-23",
+            "action": "SELL",
+            "target_price": 1350.0,
+            "previous_call_id": 38069.0
+          },
+          {
+            "date": "2025-04-22",
+            "action": "BUY",
+            "target_price": 600.0,
+            "previous_call_id": 38668.0
+          },
+          {
+            "date": "2025-10-14",
+            "action": "BUY",
+            "target_price": 550.0,
+            "previous_call_id": 39465.0
+          },
+          {
+            "date": "2025-10-17",
+            "action": "SELL",
+            "target_price": 1050.0,
+            "previous_call_id": 38723.0
+          }
+        ]
+      },
+      {
+        "analyst_id": 43,
+        "analyst_name": "Prabhudas Lilladher Private Limited",
+        "analyst_aei_score": 0.97,
+        "journey": [
+          {
+            "date": "2025-01-22",
+            "action": "BUY",
+            "target_price": 692.0,
+            "previous_call_id": null
+          },
+          {
+            "date": "2025-01-24",
+            "action": "BUY",
+            "target_price": 2010.0,
+            "previous_call_id": 38086.0
+          },
+          {
+            "date": "2025-04-24",
+            "action": "BUY",
+            "target_price": 546.0,
+            "previous_call_id": 38680.0
+          },
+          {
+            "date": "2025-04-25",
+            "action": "HOLD",
+            "target_price": 1200.0,
+            "previous_call_id": 38730.0
+          },
+          {
+            "date": "2025-10-15",
+            "action": "BUY",
+            "target_price": 478.0,
+            "previous_call_id": 39475.0
+          }
+        ]
+      },
+      {
+        "analyst_id": 35,
+        "analyst_name": "Krchoksey Shares And Securities Pvt. Ltd.",
+        "analyst_aei_score": 0.88,
+        "journey": [
+          {
+            "date": "2025-01-22",
+            "action": "BUY",
+            "target_price": 753.0,
+            "previous_call_id": 37976.0
+          }
+        ]
+      },
+      {
+        "analyst_id": 19,
+        "analyst_name": "Emkay Global Financial Services Limited",
+        "analyst_aei_score": 0.93,
+        "journey": [
+          {
+            "date": "2025-01-24",
+            "action": "SELL",
+            "target_price": 1700.0,
+            "previous_call_id": 36498.0
+          },
+          {
+            "date": "2025-04-25",
+            "action": "SELL",
+            "target_price": 1270.0,
+            "previous_call_id": 38704.0
+          },
+          {
+            "date": "2025-10-17",
+            "action": "SELL",
+            "target_price": 1150.0,
+            "previous_call_id": 39497.0
+          }
+        ]
+      },
+      {
+        "analyst_id": 11,
+        "analyst_name": "Choice Equity Broking Private Limited",
+        "analyst_aei_score": 0.98,
+        "journey": [
+          {
+            "date": "2025-04-24",
+            "action": "BUY",
+            "target_price": 1555.0,
+            "previous_call_id": null
+          },
+          {
+            "date": "2025-10-17",
+            "action": "SELL",
+            "target_price": 1190.0,
+            "previous_call_id": 39512.0
+          }
+        ]
+      },
+      {
+        "analyst_id": 28,
+        "analyst_name": "ICICI Securities Limited.",
+        "analyst_aei_score": 0.93,
+        "journey": [
+          {
+            "date": "2025-04-25",
+            "action": "HOLD",
+            "target_price": 1190.0,
+            "previous_call_id": null
+          }
+        ]
+      },
+      {
+        "analyst_id": 836,
+        "analyst_name": "Drchoksey Finserv Private Limited",
+        "analyst_aei_score": 1.0,
+        "journey": [
+          {
+            "date": "2025-08-06",
+            "action": "BUY",
+            "target_price": 512.0,
+            "previous_call_id": null
+          },
+          {
+            "date": "2025-10-15",
+            "action": "BUY",
+            "target_price": 483.0,
+            "previous_call_id": 40603.0
+          }
+        ]
+      }
+    ]
+  }
